@@ -119,9 +119,10 @@ p {
     background-image: url(../images/woman-code.png);
     background-attachment: fixed;
     background-size: cover;
-    height: 400px;
+    height: 560px;
     border: solid #33A8DB;
     border-width: 1px 0px;
+    padding: 200px;
 }
 
 #transform-world p {
@@ -131,8 +132,6 @@ p {
     text-transform: lowercase;
     text-shadow: 2px 2px #33A8DB;
     width: 385px;
-    padding-left: 10%;
-    padding-top: 10%;
 }
 
 #professional-challenges {
